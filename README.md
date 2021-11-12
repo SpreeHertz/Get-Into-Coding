@@ -1,7 +1,7 @@
 
 # Get into coding (for beginners)
 
-I see that there are many people who wanna get into the vast world of coding. I hope this simple gist helps you what to do.
+I see that there are many people who wanna get into the vast world of coding. I hope this simple repository helps you what to do.
 
 Note: This gist is a work in progress.
 
