@@ -61,3 +61,5 @@ Have you chosen what you wanna do? If yes, then first, **learn a tutorial or tak
 # This is a bad repo!
 Sorry for that. Got any suggestions? Submit a pull request and/or an issue.
 
+
+Shortened link: https://cutt.ly/get-into-coding-repo
