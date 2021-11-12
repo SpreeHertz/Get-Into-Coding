@@ -27,9 +27,9 @@ and much, much more.
 * If you wanna make something Minecraft related, it's best to learn [Java](https://en.wikipedia.org/wiki/Java_(programming_language)).
 * If you wanna make a Discord bot, learn [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) and/or [TypeScript](https://www.typescriptlang.org/).
 * If you wanna make websites, have a clear understanding about [HTML](https://en.wikipedia.org/wiki/HTML), [CSS](https://en.wikipedia.org/wiki/CSS), and [JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript). Then, get into a framework like [Vue.js](https://vuejs.org), [React](https://reactjs.org/) or [Angular](https://angular.io/) (Note: There are other frameworks too, but these are the most popular and the most preffered frameworks)
-* If you wanna make machine learning stuff, learn Python.
-* If you wanna make Android related software, learn Kotlin.
-* If you wanna make a game, learn C++ along with Unity or Unreal Engine.
+* If you wanna make machine learning stuff, learn [Python](https://www.python.org/).
+* If you wanna make Android related software, learn [Kotlin](https://kotlinlang.org/).
+* If you wanna make a game, learn C++ along with [Unity](https://unity.com/) or [Unreal Engine](https://www.unrealengine.com/).
 
 # How do I start?
 
@@ -37,11 +37,15 @@ Have you chosen what you wanna do? If yes, then first, **learn a tutorial or tak
 
 # Helpful links
 
-## Learn languages
+## Learn languages/engines
 * [Learn JavaScript](https://www.youtube.com/watch?v=jS4aFq5-91M)
 * [Learn TypeScript](https://www.youtube.com/watch?v=gp5H0Vw39yw) 
 * [Learn Java](https://www.youtube.com/watch?v=grEKMHGYyns)
 * [Learn Python](https://www.youtube.com/watch?v=rfscVS0vtbw) 
+* [Learn Unity - an engine to make games](https://www.youtube.com/watch?v=gB1F9G0JXOo)
+* [Learn Unreal Engine - a game engine developed by Epic Games](https://www.youtube.com/watch?v=LsNW4FPHuZE)
+* [Learn Kotlin - The preferred language for developing Android software](https://www.youtube.com/watch?v=F9UC9DY-vIU)
+* [Learn C++](https://www.youtube.com/watch?v=vLnPwxZdW4Y)
 
 ## Web development
 * [Vue.js course](https://www.youtube.com/watch?v=FXpIoQ_rT_c)
