@@ -9,7 +9,7 @@ Note: This repository is a work in progress.
 * [What can I make with code?](#what-can-i-make-with-code)
 * [What should I learn?](#what-should-i-learn)
 * [How do I start?](#how-do-i-start)
-* [Tutorials](#tutorials)
+* [Helpful links](#helpful-links)
 
 # What can I make with code?
 
