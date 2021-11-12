@@ -23,9 +23,9 @@ and much, much more.
 
 # What should I learn?
 
-* If you wanna make something Minecraft related, it's best to learn Java.
-* If you wanna make a Discord bot, learn JavaScript and/or TypeScript.
-* If you wanna make websites, have a clear understanding about HTML, CSS, and JS. Then, get into a framework like [Vue.js](https://vuejs.org), [React](https://reactjs.org/) or [Angular](https://angular.io/) (Note: There are other frameworks too, but these are the most popular and the most preffered frameworks)
+* If you wanna make something Minecraft related, it's best to learn [Java](https://en.wikipedia.org/wiki/Java_(programming_language)).
+* If you wanna make a Discord bot, learn [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) and/or [TypeScript](https://www.typescriptlang.org/).
+* If you wanna make websites, have a clear understanding about [HTML](https://en.wikipedia.org/wiki/HTML), [CSS](https://en.wikipedia.org/wiki/CSS), and [JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript). Then, get into a framework like [Vue.js](https://vuejs.org), [React](https://reactjs.org/) or [Angular](https://angular.io/) (Note: There are other frameworks too, but these are the most popular and the most preffered frameworks)
 * If you wanna make machine learning stuff, learn Python.
 * If you wanna make Android related software, learn Kotlin.
 * If you wanna make a game, learn C++ along with Unity or Unreal Engine.
@@ -36,11 +36,23 @@ Have you chosen what you wanna do? If yes, then first, **learn a tutorial or tak
 
 # Helpful links
 
-### Learn languages
-* [Learn JavaScript - by FreecCodeCamp.org](https://www.youtube.com/watch?v=jS4aFq5-91M) 
-* [Learn TypeScript - by FreeCodeCamp.org](https://www.youtube.com/watch?v=gp5H0Vw39yw) 
-* [Learn Java - by FreeCodeCamp.org](https://www.youtube.com/watch?v=grEKMHGYyns)
-* [Learn Python - by FreeCodeCamp.org](https://www.youtube.com/watch?v=rfscVS0vtbw) 
+## Learn languages
+* [Learn JavaScript](https://www.youtube.com/watch?v=jS4aFq5-91M)
+* [Learn TypeScript](https://www.youtube.com/watch?v=gp5H0Vw39yw) 
+* [Learn Java](https://www.youtube.com/watch?v=grEKMHGYyns)
+* [Learn Python](https://www.youtube.com/watch?v=rfscVS0vtbw) 
 
+## Web development
+* [Vue.js course](https://www.youtube.com/watch?v=FXpIoQ_rT_c)
+* [Angular.js course](https://www.youtube.com/watch?v=3dHNOWTI7H8)
+* [React course](https://www.youtube.com/watch?v=w7ejDZ8SWv8)
 
+## Recommeneded YouTube channels
+* [Fireship](https://www.youtube.com/c/Fireship)
+* [Web Dev Simplified](https://www.youtube.com/c/WebDevSimplified)
+* [Kevin Powell](https://www.youtube.com/kepowob)
+* [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
+
+# This is a bad repo!
+Sorry for that. Got any suggestions? Submit a pull request and/or an issue.
 
