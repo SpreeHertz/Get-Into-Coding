@@ -3,7 +3,7 @@
 
 I see that there are many people who wanna get into the vast world of coding. I hope this simple repository helps you what to do.
 
-Note: This gist is a work in progress.
+Note: This repository is a work in progress.
 
 # Table of contents
 * [What can I make with code?](#what-can-i-make-with-code)
