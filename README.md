@@ -10,7 +10,7 @@ Note: This repository is a work in progress.
 * [What should I learn?](#what-should-i-learn)
 * [How do I start?](#how-do-i-start)
 * [Helpful links](#helpful-links)
-
+* [I need code help](#i-need-code-help)
 # What can I make with code?
 
 You can make many things, like:
@@ -63,3 +63,10 @@ Sorry for that. Got any suggestions? Submit a pull request and/or an issue.
 
 
 Shortened link: https://cutt.ly/get-into-coding-repo
+
+# I need code help
+
+Need help? Google is your best friend. No, seriously. Most programmers google and learn to get solutions. Some also go to discord servers to get help. Here are some servers:
+
+* [Developer Den](https://discord.gg/KDuDAgxY3k)
+
